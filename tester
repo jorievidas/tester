@@ -1,0 +1,4 @@
+while true do
+game:HttpGet("UrlHere",true))();
+end       
+
